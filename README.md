@@ -1,2 +1,4 @@
 # myPoster
-2022 yılında İstanbul Üniversitesi'nde sunduğum poster
+2022 yılında İstanbul Üniversitesi'nde sunduğum poster.
+
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/8d2e5ade67746708622cf493822701cc52ab670012770657881559c5b573541c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6d75737461636865706172726f742e676966"/>
